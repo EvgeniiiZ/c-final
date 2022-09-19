@@ -20,6 +20,7 @@ string[] array(string[]newarray)
 }
 
 
+
 void PrintArray(string[] array)
 {
     for (int i = 0; i < array.Length; i++ )
